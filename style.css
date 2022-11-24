@@ -1,0 +1,47 @@
+#div1{
+	border-style: solid;
+	border-color: lightcoral;
+	margin: 20%;
+	padding: 12px;
+}
+#product{
+	font-family: 'Barlow Condensed', sans-serif;
+    font-size: 14pt;
+    text-align: left;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#price{
+	margin-top: 25px;
+	margin-bottom: 25px;
+    font-family: 'Caveat', cursive;
+    font-size: 300pt;
+    text-align: center;
+}
+body{
+	background-color: #978183;
+}
+img{
+	height: 50%;
+	width: 50%;
+	margin-left: 100px;
+	margin-right: 100px;
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	padding: 5px;
+}
+h4{
+	font-family: 'Caveat Brush', cursive;
+	font-size: 54pt;
+	text-align: center;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+button{ 
+   border: dotted;
+   border-radius: 6px;
+   outline: 4;
+   display: inline-block;
+   padding: 12px;
+   color: white;
+   background-color: #6C585A;
